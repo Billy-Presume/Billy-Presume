@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Billy-Presume
+- 👋 Hi, I’m @Billy-Presume. I'm a senior Computer Science student.
 - 👀 I’m interested in Front-End and Banck-End Web Development, Mobile and Software Development
-- 🌱 I’m currently learning React, React-Native, 
+- 🌱 I’m currently learning React and React-Native
 - 💞️ I’m looking to collaborate on Front-End and Banck-End Web Development projects
 - 📫 How to reach me: Email me at billypresume@gmail.com
 
