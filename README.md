@@ -1,35 +1,39 @@
-- Graduated with a degree in Computer Science from Franciscan University
-- E-Learning Developer at FUS
-- 3+ years of experience developing high quality, performant, and scalable Frontend and eLearning 
-  solutions in fast pace agile environments.
-- Frontend Developer with thorough understanding Object Oriented Programming (OOP), Data 
-        Structures and Algorithms.
-- Quick learner with strong verbal and written communication, presentation and interpersonal skills. 
-        Fluent in English, French and Haitian-Creole.
-- Exuberant when learning new products and methods to implement best practices.
-- Designed and developed responsive websites using React, JavaScript (ES6+), CSS and SASS 
-        preprocessor, HTML.
-- Experience using REST APIs, Postman, Git, GitHub, and IntelliJ.
-- Experience creating automated test cases using Selenium IDE, writing test cases using Jest and 
-        Enzyme and debugging.
-- Experience using and integrating Google Analytics to web applications.
-- Experience working with LMSs, developing content, video and audio editing, and insuring accessibility 
-        (Section 508) and platform compatibility.
-- Experience using Blackboard and Articulate 360
-- Experience working with stakeholders such as Product Owners, Business Analysts, and UI/UX 
-        Designers for requirements gathering and understanding.
-- Used AWS Amplify, AppSync, React Native, PostgreSQL and DynamoDB to develop a cross-platform 
-        mobile application.
-- Proficiency in Python, Adobe Creative Clouds, and Microsoft Office Suite.
-- Understanding of CI/CD pipeline.
-- Knowledge of Search Engine Optimization (SEO), Standard Operating Procedure (SOP), Brand 
-        Development, Product Management, and Data Analysis.
-- American Red Cross Certified in Adult and Pediatric First Aid/CPR/AED
+## Hi, I'm Billy!
 
-- My portfolio website: http://www.billypresume.com/
-- How to reach me: Email me at billypresume@gmail.com
+**Senior Data Analyst | Full-Stack Developer | Data Enthusiast**  
+**B.Sc. in Computer & Mathematical Science**  
+**Incoming Graduate Student at Johns Hopkins University**  
+Currently at **Hilton**, optimizing systems and enhancing guest experiences through data-driven innovation.
 
-<!---
-Billy-Presume/Billy-Presume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Recent Project Highlights
+
+### Full-Stack Web Analytics Platform
+
+Designed and built a fully **SAML-authenticated**, full-stack analytics platform using:  
+**JavaScript**, **Node.js**, **Express**, **SvelteKit**, **TailwindCSS**, **SQL**, **IIS**, and more.
+
+Ongoing development of automations and analytics tools with:  
+**Python**, **AWS**, **Redshift**, **Alteryx**, and the **Atlassian Software Suite** (Bamboo, Jira, Bitbucket, etc.), supporting Hilton’s **8,400+ properties worldwide**.
+
+**Key Outcomes:**
+- Enabled predictive modeling, data visualization & machine learning  
+- Delivered **$3.6M+** in annual savings  
+- Reduced analysis time by **1,500+ hours**  
+- Achieved **100% stakeholder satisfaction**
+
+---
+
+## 💡 What I Bring
+
+- Transforming **complex data** into **actionable insights**  
+- Building **scalable, enterprise-grade applications**  
+- Fostering **collaborative**, creative, and professional teams  
+- Passionate about **continuous learning** and **innovation**
+
+---
+
+## 🔍 Always Exploring
+
+Whether it's sharpening technical skills or driving process improvements, I'm energized by solving real-world problems and building tools that make a lasting impact.
